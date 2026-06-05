@@ -4,13 +4,21 @@ A simple, responsive, and user-friendly QR Code Generator web application built 
 
 ---
 
+##  Project Overview
+
+This project is a web-based QR Code Generator built with Flask (Python backend) and Bootstrap (frontend UI). It takes user input (URL or text), generates a QR code, and allows users to download it.
+
+It is designed to be simple, fast, and responsive for all devices.
+
+---
+
 ##  Features
 
 - Generate QR codes from any URL or text input
 - Download generated QR codes instantly
-- Responsive design (mobile, tablet, desktop)
-- Clean and modern UI using Bootstrap 5
-- Fast and lightweight Flask backend
+- Clean and user-friendly interface
+- Fully responsive design (mobile, tablet, desktop)
+- Lightweight and fast Flask backend
 
 ---
 
@@ -24,17 +32,12 @@ A simple, responsive, and user-friendly QR Code Generator web application built 
 
 ---
 
+##  Project Structure
+
+---
+
 ##  Requirements
 
-To run this project, install the following dependencies:
-
-```txt
 Flask
 qrcode
 Pillow
-
----
-##  Author
-
-**Mehak Quzah**
-- GitHub: https://github.com/mehak-quzah
