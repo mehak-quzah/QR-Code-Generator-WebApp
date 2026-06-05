@@ -43,6 +43,9 @@ qrcode
 <br>
 Pillow
 
+---
+
 ##  Author
 Mehak Quzah
+<br>
 GitHub: https://github.com/mehak-quzah
