@@ -37,7 +37,15 @@ It is designed to be simple, fast, and responsive for all devices.
 ---
 
 ##  Requirements
-
 Flask
+<br>
 qrcode
+<br>
 Pillow
+
+---
+
+##  Author
+Mehak Quzah
+<br>
+GitHub: https://github.com/mehak-quzah
