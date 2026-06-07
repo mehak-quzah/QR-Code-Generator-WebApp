@@ -1,5 +1,5 @@
 body{
-     background: linear-gradient(135deg, #89b4fa, #a5c8ff, #cfe2ff);
+    background: linear-gradient(135deg, #89b4fa, #a5c8ff, #cfe2ff);
     margin: 0;
 }
 
@@ -19,12 +19,12 @@ h4, h5{
 
 /* Buttons */
 .butttn{
-    background: #768eee  !important;
+    background: linear-gradient(135deg, #768dec, #4f6de6, #3658db);
     border: none;
 }
 
 .butttn:hover{
-    background: #768dec;
+    background: linear-gradient(135deg, #5a74e6, #3658db);
 }
 
 /* QR image */
